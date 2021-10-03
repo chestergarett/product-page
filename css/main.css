@@ -646,6 +646,7 @@ body {
 .testimonials {
   position: relative;
   max-width: 100%;
+  overflow-x: scroll;
   -webkit-box-reflect: below 1px linear-gradient(transparent 70%, #0009);
 }
 
